@@ -1,0 +1,2 @@
+webpackJsonp([0x9649add116d8],{656:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo1OTE=",title:'Read "Why thieves love America’s health-care system" to see if there\'s anything that can inform the Agora HS product roadamp',description:'This was shared by Ryan: "Why thieves love America’s health-care system".'}},pathContext:{id:"YXNzaWdubWVudDo1OTE="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-1-ote-32ba245336fe76b5a782.js.map

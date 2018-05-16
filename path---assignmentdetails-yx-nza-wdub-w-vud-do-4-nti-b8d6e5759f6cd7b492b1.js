@@ -1,0 +1,2 @@
+webpackJsonp([0xbf8de7aacfe4],{677:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo4NTI=",title:"HCI cloud data backup brings cost, protection benefits",description:"Learn how HCI cloud data backup works and which method each vendor supports in this expert tip. Public cloud backup can save time and money."}},pathContext:{id:"YXNzaWdubWVudDo4NTI="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-4-nti-b8d6e5759f6cd7b492b1.js.map

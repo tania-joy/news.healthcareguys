@@ -1,0 +1,2 @@
+webpackJsonp([0x9adc66e0381e],{674:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo4NjA=",title:"Aggregate data in one column before a date",description:"Am trying to sum value in another column that is grouped by ids. One id may have different accounts, which were opened on different days. I want to sum the amount before each account was opened i.e..."}},pathContext:{id:"YXNzaWdubWVudDo4NjA="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-4-nj-a-d44265bd63fa1ea8697b.js.map

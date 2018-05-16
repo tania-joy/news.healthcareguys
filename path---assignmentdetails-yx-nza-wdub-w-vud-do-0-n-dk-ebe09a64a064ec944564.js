@@ -1,0 +1,2 @@
+webpackJsonp([0x6763116d4101],{649:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo0NDk=",title:"Review list of Checklists to see which ones can be created in ProveIT",description:"The Checklist-Checklist GitHub repos is a Curated List of Checklists that might be great input for ProveIT standard worklists."}},pathContext:{id:"YXNzaWdubWVudDo0NDk="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-0-n-dk-ebe09a64a064ec944564.js.map

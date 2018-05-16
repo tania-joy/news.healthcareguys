@@ -1,0 +1,7 @@
+.checkbox-wrap {
+    border: 1px solid #ddd !important;
+    height: 200px !important;
+    margin-bottom: 25px !important;
+    overflow-y: scroll !important;
+    padding: 10px !important
+}

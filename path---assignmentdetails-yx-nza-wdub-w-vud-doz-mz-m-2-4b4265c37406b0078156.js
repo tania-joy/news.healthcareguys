@@ -1,0 +1,2 @@
+webpackJsonp([0xdbdfb87850a1],{756:function(t,i){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzM2",title:"Could eating fish stave off Parkinson's disease?",description:"We know that eating fish protects brain health. A new study identifies the protein responsible for this and explains how it fights 'Parkinson's protein.' "}},pathContext:{id:"YXNzaWdubWVudDozMzM2"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mz-m-2-4b4265c37406b0078156.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x6d0949ae0543],{702:function(e,i){e.exports={data:{assignments:{id:"YXNzaWdubWVudDoxMzU3",title:"Learn GraphQL Remote Stitching Micro-services with NodeJS",description:"This article explains with a very good example and source code available in GitHub (https://github.com/supercycle91/graphql-microservices-example).&nbsp;GraphQL Remote Stitching helps to build our own GraphQL micro-services.\n"}},pathContext:{id:"YXNzaWdubWVudDoxMzU3"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-dox-mz-u-3-c45b1cfcab8e3a4cd204.js.map

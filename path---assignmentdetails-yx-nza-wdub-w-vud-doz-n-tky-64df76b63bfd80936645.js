@@ -1,0 +1,2 @@
+webpackJsonp([0xaf32da9c61e3],{782:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTky",title:"Study JSON-LD to understand format to use in #Lectio for related items",description:"<p>As we start to define relationships in Lectio, use the JSON-LD format which is linked data and RDF compatible.<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozNTky"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-n-tky-64df76b63bfd80936645.js.map

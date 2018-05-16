@@ -1,0 +1,2 @@
+webpackJsonp([93710918574868],{773:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTc5",title:"8 New Spectre-Class Vulnerabilities (Spectre-NG) Found in Intel CPUs",description:"<p>adfdfd</p>"}},pathContext:{id:"YXNzaWdubWVudDozNTc5"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-n-tc-5-1f875bf7e995fd93c220.js.map

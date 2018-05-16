@@ -1,0 +1,2 @@
+webpackJsonp([26130443537135],{697:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDoxMjcx",title:"Evaluate dStatusPage for decentralized operational status page implementation",description:"<p>This solution let’s us keep a decentralized StatusPage on the permanent web, lets see how it works and see if its better than what we’re using now.</p>\n"}},pathContext:{id:"YXNzaWdubWVudDoxMjcx"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-dox-mjcx-7a7f424195081f70b7be.js.map

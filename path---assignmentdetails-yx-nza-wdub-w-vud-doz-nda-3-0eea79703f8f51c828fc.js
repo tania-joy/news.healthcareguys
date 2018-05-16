@@ -1,0 +1,2 @@
+webpackJsonp([0x792db1dcb842],{785:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDA3",title:"Learn from Twilio Use Cases example for #Lectio, #Attest, etc. website pages",description:"In many of our #GrowthHacking work products we need easy to understand pages for our customers. Our product pages need to be simpler and then we'll add custom use case pages like this for explaining more detailed pages."}},pathContext:{id:"YXNzaWdubWVudDozNDA3"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nda-3-0eea79703f8f51c828fc.js.map

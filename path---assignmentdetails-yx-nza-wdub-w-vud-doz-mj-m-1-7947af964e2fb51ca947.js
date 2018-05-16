@@ -1,0 +1,2 @@
+webpackJsonp([77195702681439],{635:function(o,t){o.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjM1",postId:3235,title:"Drozer",description:"<p>Drozer<br></p>",author:{name:"Robin Stark",email:"robinrowr@gmail.com"},expiryDate:null,actualUrl:"https://www.dropbox.com/s/j1ju3bm3pqxj7l9/howto-urllib2.pdf?dl=0",terms:[{categoryId:"470",name:"Application"},{categoryId:"463",name:"SQA Lectio"}]}},pathContext:{id:"YXNzaWdubWVudDozMjM1"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mj-m-1-7947af964e2fb51ca947.js.map

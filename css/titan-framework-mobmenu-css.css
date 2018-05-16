@@ -1,0 +1,36 @@
+.mobmenu .headertext {
+    font-family: dosis;
+    font-size: 20px;
+    font-weight: inherit;
+    font-style: normal;
+    line-height: 1.5em;
+    letter-spacing: normal;
+    text-transform: none
+}
+
+#mobmenuleft>.widgettitle,
+#mobmenuleft li a,
+#mobmenuleft li a:visited,
+#mobmenuleft .mobmenu_content h2,
+#mobmenuleft .mobmenu_content h3 {
+    font-family: dosis;
+    font-size: inherit;
+    font-weight: inherit;
+    font-style: normal;
+    line-height: 1.5em;
+    letter-spacing: normal;
+    text-transform: none
+}
+
+#mobmenuright li a,
+#mobmenuright li a:visited,
+#mobmenuright .mobmenu_content h2,
+#mobmenuright .mobmenu_content h3 {
+    font-family: dosis;
+    font-size: inherit;
+    font-weight: inherit;
+    font-style: normal;
+    line-height: 1.5em;
+    letter-spacing: normal;
+    text-transform: none
+}

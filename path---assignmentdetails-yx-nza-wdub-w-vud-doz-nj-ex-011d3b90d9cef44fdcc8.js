@@ -1,0 +1,2 @@
+webpackJsonp([0xb6d266b539dd],{796:function(d,e){d.exports={data:{assignments:{id:"YXNzaWdubWVudDozNjEx",title:"Leukemia vs lymphoma: Similarities and differences",description:"<p>https://www.medicalnewstoday.com/articles/321692.php<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozNjEx"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nj-ex-011d3b90d9cef44fdcc8.js.map

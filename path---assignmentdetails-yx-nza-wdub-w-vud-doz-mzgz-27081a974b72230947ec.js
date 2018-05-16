@@ -1,0 +1,2 @@
+webpackJsonp([21447079951903],{766:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzgz",title:"Evaluate GraphiQL Electron app as a #GraphQL #Tool for use by all engineers",description:"This is a GUI for editing and testing GraphQL queries and mutations that can run as a desktop app thanks to Electron."}},pathContext:{id:"YXNzaWdubWVudDozMzgz"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mzgz-27081a974b72230947ec.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x9e6e2296a48f],{659:function(e,s){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MDA=",title:"Qualys Security Assessment Questionnaire Videos",description:null}},pathContext:{id:"YXNzaWdubWVudDo2MDA="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-2-mda-99d91dc79217026df24b.js.map

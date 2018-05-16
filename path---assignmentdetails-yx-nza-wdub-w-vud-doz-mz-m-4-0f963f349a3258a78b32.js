@@ -1,0 +1,2 @@
+webpackJsonp([0xe97425538435],{757:function(e,i){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzM4",title:"Nintendo Switches Hacked to Run Linux—Unpatchable Exploit Released",description:"Security researchers released exploit for Tegra X1 Nintendo Switches, Fusée Gelée and ShofEL2, which allows device owners to install Linux or run unofficial games."}},pathContext:{id:"YXNzaWdubWVudDozMzM4"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mz-m-4-0f963f349a3258a78b32.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xa3238a6d93c2],{660:function(o,e){o.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MDQ=",title:"10 Rules for Creating a Mobile Look and Feel",description:"Good pdf, demonstrating latest trends in Mobile look and feel. It clearly shows the don'ts and dos for a Mobile look and feel"}},pathContext:{id:"YXNzaWdubWVudDo2MDQ="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-2-mdq-86cbbddf87bebd911272.js.map

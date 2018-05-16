@@ -1,0 +1,2 @@
+webpackJsonp([0x74305afdd51e],{739:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozMDg1",title:"See if dejavu Web UI for ElasticSearch is useful for #Stature or #Attest",description:"<p>dejavu claims to be “The Missing Web UI for Elasticsearch”. Please try it out to see if it’s useful for our ElasticSearch front ends.</p>\n"}},pathContext:{id:"YXNzaWdubWVudDozMDg1"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-m-dg-1-98a7e25b73b6827fffbf.js.map

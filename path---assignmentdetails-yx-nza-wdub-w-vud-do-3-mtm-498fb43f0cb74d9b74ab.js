@@ -1,0 +1,2 @@
+webpackJsonp([0xcdd04a30e789],{665:function(e,o){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3MTM=",title:'Check "Can Washington Be Automated?" to learn how to do AI and NLP on legal and policy documents',description:"The technology described in here could be something we use for analysis of budgeting documents, congressional justifications, etc. for OMB and other agencies."}},pathContext:{id:"YXNzaWdubWVudDo3MTM="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-3-mtm-498fb43f0cb74d9b74ab.js.map

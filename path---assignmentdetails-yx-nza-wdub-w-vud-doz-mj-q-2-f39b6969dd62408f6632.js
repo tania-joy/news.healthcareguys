@@ -1,0 +1,2 @@
+webpackJsonp([94973393692016],{638:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjQ2",postId:3246,title:"Rich Media",description:"<p>Rich Media<br></p>",author:{name:"Robin Stark",email:"robinrowr@gmail.com"},expiryDate:null,actualUrl:null,terms:[{categoryId:"470",name:"Application"},{categoryId:"463",name:"SQA Lectio"}]}},pathContext:{id:"YXNzaWdubWVudDozMjQ2"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mj-q-2-f39b6969dd62408f6632.js.map

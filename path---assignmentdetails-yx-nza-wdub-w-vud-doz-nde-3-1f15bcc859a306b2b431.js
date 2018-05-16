@@ -1,0 +1,2 @@
+webpackJsonp([0xc4f0deff95c5],{786:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDE3",title:"Evaluate Hyper™ as our default Electron-based terminal #Tool",description:"Hyper™ is new Electron-based HTML/JS/CSS terminal with plugins and other capabilities (similar to Visual Studio Code). It's worth evaluating."}},pathContext:{id:"YXNzaWdubWVudDozNDE3"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nde-3-1f15bcc859a306b2b431.js.map

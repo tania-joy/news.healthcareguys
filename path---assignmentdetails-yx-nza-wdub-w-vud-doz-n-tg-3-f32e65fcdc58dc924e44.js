@@ -1,0 +1,2 @@
+webpackJsonp([0x870ebf593b07],{776:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTg3",title:"The Guide to Marketing KPIs",description:"<p>Growth Hacking Team,</p>\n<p>Please go through the document and use the same to help guide our OKRs and start tracking those metrics for our GH work.<br></p>\n"}},pathContext:{id:"YXNzaWdubWVudDozNTg3"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-n-tg-3-f32e65fcdc58dc924e44.js.map

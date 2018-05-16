@@ -1,0 +1,2 @@
+webpackJsonp([0x9e6e2296a48f],{545:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MDA=",postId:600,title:"Qualys Security Assessment Questionnaire Videos",description:null,author:{name:"VL Geo",email:"geo@citrusinformatics.com"},expiryDate:null,actualUrl:null,terms:[{categoryId:"411",name:"Netspective Attest"},{categoryId:"129",name:"Netspective Communications"}]}},pathContext:{id:"YXNzaWdubWVudDo2MDA="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-2-mda-a58376f9b62ca17f6f54.js.map

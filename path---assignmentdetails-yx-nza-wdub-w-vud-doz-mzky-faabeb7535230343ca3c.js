@@ -1,0 +1,2 @@
+webpackJsonp([0x8f87254643a8],{654:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzky",postId:3392,title:"GraphiQL",description:"A GUI for editing and testing GraphQL queries and mutations",author:{name:"Robin Stark",email:"robinrowr@gmail.com"},expiryDate:null,actualUrl:"/apps/graphiql",terms:[{categoryId:"470",name:"Application"},{categoryId:"485",name:"laptop"}]}},pathContext:{id:"YXNzaWdubWVudDozMzky"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mzky-faabeb7535230343ca3c.js.map

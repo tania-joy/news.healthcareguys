@@ -1,0 +1,2 @@
+webpackJsonp([0xffd47de05ada],{770:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDgx",title:"Could saunas reduce stroke risk?",description:"According to a recent study, taking regular saunas might reduce the risk of stroke. At last, something enjoyable seems to be good for us."}},pathContext:{id:"YXNzaWdubWVudDozNDgx"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-n-dgx-be9906dc75ba2cfc4817.js.map

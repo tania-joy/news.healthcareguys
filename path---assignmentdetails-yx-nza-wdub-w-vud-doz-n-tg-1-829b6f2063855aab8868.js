@@ -1,0 +1,2 @@
+webpackJsonp([0xb290f41c984e],{775:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTg1",title:"Health Blog | Hayward Family Care",description:"<p>hayward family care blog</p>"}},pathContext:{id:"YXNzaWdubWVudDozNTg1"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-n-tg-1-829b6f2063855aab8868.js.map

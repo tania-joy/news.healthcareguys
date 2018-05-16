@@ -1,0 +1,2 @@
+webpackJsonp([0x98a52ae922d9],{675:function(t,i){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo4NjQ=",title:"How to build a simple Twitter bot in 17 lines of code",description:"A quick tutorial on how to build a simple retweeting Twitter bot using twit and Node.js"}},pathContext:{id:"YXNzaWdubWVudDo4NjQ="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-4-nj-q-6cfa8cc72b51fa15ca1d.js.map

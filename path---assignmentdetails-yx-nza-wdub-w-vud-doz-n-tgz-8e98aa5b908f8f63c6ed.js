@@ -1,0 +1,2 @@
+webpackJsonp([0x62eedf158488],{778:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTgz",title:"Careers | priorityoneservices.com",description:"<p>fff</p>"}},pathContext:{id:"YXNzaWdubWVudDozNTgz"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-n-tgz-8e98aa5b908f8f63c6ed.js.map

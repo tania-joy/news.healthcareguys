@@ -1,0 +1,2 @@
+webpackJsonp([0xc1731d65fb88],{541:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo1OTg=",postId:598,title:"Qualys Questionnaire Design Tips",description:null,author:{name:"VL Geo",email:"geo@citrusinformatics.com"},expiryDate:null,actualUrl:null,terms:[{categoryId:"411",name:"Netspective Attest"},{categoryId:"129",name:"Netspective Communications"}]}},pathContext:{id:"YXNzaWdubWVudDo1OTg="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-1-o-tg-d93edaf9496eb5b4de7c.js.map

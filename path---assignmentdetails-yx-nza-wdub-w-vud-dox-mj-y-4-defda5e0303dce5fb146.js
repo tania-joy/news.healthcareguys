@@ -1,0 +1,2 @@
+webpackJsonp([0xc128773dffd5],{696:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDoxMjY4",title:"Evaluate whether ProveIt can handle Longitudinal Coordination of Care (LCC) and Interoperable Care Plan Exchange",description:"<p>Please evaluate ONC’s LCC initiative and see whether ProveIt could help with implementation of this kind of capture.</p>\n"}},pathContext:{id:"YXNzaWdubWVudDoxMjY4"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-dox-mj-y-4-defda5e0303dce5fb146.js.map

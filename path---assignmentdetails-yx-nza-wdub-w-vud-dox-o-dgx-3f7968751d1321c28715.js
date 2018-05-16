@@ -1,0 +1,2 @@
+webpackJsonp([79482802131576],{710:function(a,e){a.exports={data:{assignments:{id:"YXNzaWdubWVudDoxODgx",title:"Research ability to add fare lookup API based on “New Standard Aims to Ensure Accurate Fares in Both Ride-Hailing Technology and Traditional Taxi Services”",description:"<p>In EasyRyde, let’s add a new fare GraphQL types based on this new standard.</p>\n<p></p>\n"}},pathContext:{id:"YXNzaWdubWVudDoxODgx"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-dox-o-dgx-3f7968751d1321c28715.js.map

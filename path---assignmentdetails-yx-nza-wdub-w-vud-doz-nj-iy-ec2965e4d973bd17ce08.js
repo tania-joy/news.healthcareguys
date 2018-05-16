@@ -1,0 +1,2 @@
+webpackJsonp([0xdbb37be01f6d],{685:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNjIy",postId:3622,title:"Netspective Media | Practitioner & Expert Journalism",description:"<p>ttt</p>",author:{name:"Thajunnisa",email:"thajunnisa.ajes@citrusinformatics.com"},expiryDate:null,actualUrl:"https://www.netspective.media/",terms:[{categoryId:"556",name:"Badge"}]}},pathContext:{id:"YXNzaWdubWVudDozNjIy"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nj-iy-ec2965e4d973bd17ce08.js.map

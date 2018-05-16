@@ -1,0 +1,2 @@
+webpackJsonp([48166785981879],{724:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDoyNzQx",title:"Solving Multi-Label Classification problems (Case studies included)",description:"The initial portion of the document shared, clearly tell us the difference between the multi-class &amp; multi-label&nbsp; in ml."}},pathContext:{id:"YXNzaWdubWVudDoyNzQx"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doy-nz-qx-d979e0b3582f91c63f6f.js.map

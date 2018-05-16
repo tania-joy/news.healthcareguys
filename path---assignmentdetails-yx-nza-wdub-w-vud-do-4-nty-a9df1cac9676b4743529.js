@@ -1,0 +1,2 @@
+webpackJsonp([0xfe6a1bcc61d6],{678:function(a,e){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo4NTY=",title:"New Cause-Related Marketing Research: Why Brands Shouldn’t Be Afraid to Take a Stand",description:"Pixability’s CEO shares quantitative research her company has done behind this trend. Check out  why brands shouldn’t shy away."}},pathContext:{id:"YXNzaWdubWVudDo4NTY="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-4-nty-a9df1cac9676b4743529.js.map

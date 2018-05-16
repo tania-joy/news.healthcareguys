@@ -1,0 +1,2 @@
+webpackJsonp([0xbaeb1d3f01c0],{700:function(e,p){e.exports={data:{assignments:{id:"YXNzaWdubWVudDoxMzM3",title:"TypeScript 2.7",description:"<p>TypeScript 2.7 Is released, Can check whether&nbsp; typescript version 2.7 is compatible for the current&nbsp; Angular versions</p><p><br></p>\n"}},pathContext:{id:"YXNzaWdubWVudDoxMzM3"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-dox-mz-m-3-a257c97603a2cce5a0fe.js.map

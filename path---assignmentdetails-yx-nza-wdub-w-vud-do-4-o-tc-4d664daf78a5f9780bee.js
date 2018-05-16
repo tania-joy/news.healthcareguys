@@ -1,0 +1,2 @@
+webpackJsonp([81668038135446],{682:function(t,i){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo4OTc=",title:"Create Health Innovation Minute or Health Bytes vlog/podcast",description:"<p>Let's create a single-minute or 5 minute daily/weekly digest of quick hits. Practical Innovation Briefs, Actionable Innovation Briefs -- what is innovation vs. invention vs. practical vs. actionable?<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo4OTc="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-4-o-tc-4d664daf78a5f9780bee.js.map

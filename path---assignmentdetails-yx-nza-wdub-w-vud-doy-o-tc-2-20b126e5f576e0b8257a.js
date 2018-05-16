@@ -1,0 +1,2 @@
+webpackJsonp([0xa81fbe9a4b38],{731:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDoyOTc2",title:"Mistakes made by Venture-Backed Home Care company HomeHero",description:"<p>Read this great explanation of all the mistakes that HomeHero made and how we can avoid some or all of them.<br></p><p><br></p>"}},pathContext:{id:"YXNzaWdubWVudDoyOTc2"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doy-o-tc-2-20b126e5f576e0b8257a.js.map

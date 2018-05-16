@@ -1,0 +1,2 @@
+webpackJsonp([97612801517164],{728:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDoyODg1",title:"Meet the 7 leaders who will be steering modernization dollars — FCW",description:"<p>This may be relevant for our Federal Business Development team.&nbsp;</p>\n"}},pathContext:{id:"YXNzaWdubWVudDoyODg1"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doy-o-dg-1-9e052f276c4ebd661c76.js.map

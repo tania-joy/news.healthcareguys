@@ -1,0 +1,2 @@
+webpackJsonp([0xbe30d2061e8b],{803:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozOTY=",title:"Check out Cybercompex for competitor to Opsfolio Community",description:"I saw http://cybercompex.org at a recent cybersecurity conference and they seem to be our competitor but could be a partner. Let’s check them out and see how to proceed based on initial research."}},pathContext:{id:"YXNzaWdubWVudDozOTY="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-oty-763c857c03fb5d3e1bf6.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([38906247852341],{741:function(o,t){o.exports={data:{assignments:{id:"YXNzaWdubWVudDozMDk3",title:"2018 Tech Focus from Splunk",description:"<p>This is a good document to focus on for 2018</p>\n"}},pathContext:{id:"YXNzaWdubWVudDozMDk3"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-m-dk-3-f5828be8315b103547bb.js.map

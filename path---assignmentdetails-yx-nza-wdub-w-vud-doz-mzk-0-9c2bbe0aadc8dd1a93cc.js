@@ -1,0 +1,2 @@
+webpackJsonp([24385465032004],{767:function(t,i){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzk0",title:"GraphiQL | Apps | Electron",description:"<p>A GUI for editing and testing GraphQL queries and mutations<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozMzk0"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mzk-0-9c2bbe0aadc8dd1a93cc.js.map

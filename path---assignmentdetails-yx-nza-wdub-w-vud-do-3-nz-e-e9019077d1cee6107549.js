@@ -1,0 +1,2 @@
+webpackJsonp([0xc02ab766a4d6],{668:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NzE=",title:'Check out "MasterControl Quality Audit Tool" and see if Attest can do similar, more cheaply',description:"Study the MasterControl Quality Audit Tool and see if we can compete with the functionality."}},pathContext:{id:"YXNzaWdubWVudDo3NzE="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-3-nz-e-e9019077d1cee6107549.js.map

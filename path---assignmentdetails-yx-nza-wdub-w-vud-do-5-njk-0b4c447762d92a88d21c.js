@@ -1,0 +1,2 @@
+webpackJsonp([0x7811a582f322],{691:function(o,n){o.exports={data:{assignments:{id:"YXNzaWdubWVudDo5Njk=",title:"Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI",description:"<p>Good comparison on Machine Learning tools.</p>\n"}},pathContext:{id:"YXNzaWdubWVudDo5Njk="}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-5-njk-0b4c447762d92a88d21c.js.map

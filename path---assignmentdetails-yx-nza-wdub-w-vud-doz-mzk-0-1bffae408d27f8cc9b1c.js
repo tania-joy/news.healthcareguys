@@ -1,0 +1,2 @@
+webpackJsonp([24385465032004],{653:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzk0",postId:3394,title:"GraphiQL | Apps | Electron",description:"<p>A GUI for editing and testing GraphQL queries and mutations<br></p>",author:{name:"Robin Stark",email:"robinrowr@gmail.com"},expiryDate:null,actualUrl:"https://electronjs.org/apps/graphiql",terms:[{categoryId:"470",name:"Application"}]}},pathContext:{id:"YXNzaWdubWVudDozMzk0"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mzk-0-1bffae408d27f8cc9b1c.js.map
