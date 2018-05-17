@@ -1,0 +1,2 @@
+webpackJsonp([0x81ff218f3983],{697:function(a,n){a.exports={data:{assignments:{id:"YXNzaWdubWVudDozNjMw",postId:3630,title:"imagw",description:"<p>ihj&nbsp;&nbsp;&nbsp;&nbsp;</p>",author:{name:"Thajunnisa",email:"thajunnisa.ajes@citrusinformatics.com"},expiryDate:null,actualUrl:null,terms:[{categoryId:"483",name:"smart phone"},{categoryId:"463",name:"SQA Lectio"}]}},pathContext:{id:"YXNzaWdubWVudDozNjMw"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nj-mw-44f04fb38d25f57ec835.js.map
